@@ -20,7 +20,7 @@ To clean a messy customer sales dataset by:
 - **Python**
 - **Pandas** – for data manipulation
 - **NumPy** – for numerical operations
-- **Google Colab– development environment
+- **Google Colab** – development environment
 
 ---
 
