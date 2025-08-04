@@ -20,8 +20,7 @@ To clean a messy customer sales dataset by:
 - **Python**
 - **Pandas** – for data manipulation
 - **NumPy** – for numerical operations
-- **Matplotlib & Seaborn** – for visualization (optional)
-- **Google Colab / Jupyter Notebook** – development environment
+- **Google Colab– development environment
 
 ---
 
