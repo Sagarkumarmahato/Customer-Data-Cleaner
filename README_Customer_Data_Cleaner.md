@@ -26,7 +26,7 @@ To clean a messy customer sales dataset by:
 
 ##  Dataset
 - File Name: `Customer sale Data.csv`
-- Source: `/content/drive/MyDrive/Customer sale Data.csv`
+- Source: `Kaggle`
 - Cleaned File Output: `Customer_sale_clean Data.csv`
 
 ---
